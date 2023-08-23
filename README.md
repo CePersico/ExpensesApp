@@ -1,2 +1,2 @@
-# ExpensesApp
-Aplicación que permita realizar el seguimiento de gastos tanto diario, semanal, mensual como anual. 
+# JavaPracticas
+Ejemplos de aplicaciones de diversos conceptos de Java 
